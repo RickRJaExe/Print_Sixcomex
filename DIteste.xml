@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListaDeclaracoes>
+    <declaracaoImportacao>
+
+        <numeroDI>2603439641</numeroDI>
+        <sequencialRetificacao>00</sequencialRetificacao>
+
+        <importadorNumero>12345678000199</importadorNumero>
+        <importadorNome>EMPRESA TESTE IMPORT LTDA</importadorNome>
+
+        <importadorEnderecoLogradouro>AVENIDA DAS TECNOLOGIAS</importadorEnderecoLogradouro>
+        <importadorEnderecoNumero>1000</importadorEnderecoNumero>
+        <importadorEnderecoBairro>CENTRO</importadorEnderecoBairro>
+        <importadorEnderecoCep>69000000</importadorEnderecoCep>
+        <importadorEnderecoMunicipio>MANAUS</importadorEnderecoMunicipio>
+        <importadorEnderecoUf>AM</importadorEnderecoUf>
+
+        <importadorCpfRepresentanteLegal>12345678900</importadorCpfRepresentanteLegal>
+        <importadorNomeRepresentanteLegal>USUARIO TESTE</importadorNomeRepresentanteLegal>
+
+        <conhecimentoCargaEmbarqueLocal>Hong Kong</conhecimentoCargaEmbarqueLocal>
+        <conhecimentoCargaEmbarqueData>20260220</conhecimentoCargaEmbarqueData>
+
+        <conhecimentoCargaTipoCodigo>03</conhecimentoCargaTipoCodigo>
+        <conhecimentoCargaTipoNome>HAWB - House Airway Bill</conhecimentoCargaTipoNome>
+
+        <conhecimentoCargaUtilizacao>1</conhecimentoCargaUtilizacao>
+        <conhecimentoCargaIdMaster>123456789</conhecimentoCargaIdMaster>
+
+        <pagamento>
+            <codigoReceita>5602</codigoReceita>
+            <dataPagamento>20260302</dataPagamento>
+
+            <valorReceita>000000000039849</valorReceita>
+            <valorJurosEncargos>000000000000000</valorJurosEncargos>
+            <valorMulta>000000000000000</valorMulta>
+
+            <bancoPagamento>001</bancoPagamento>
+            <agenciaPagamento>1234</agenciaPagamento>
+            <contaPagamento>000123456789</contaPagamento>
+        </pagamento>
+
+    </declaracaoImportacao>
+</ListaDeclaracoes>
